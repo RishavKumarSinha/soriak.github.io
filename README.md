@@ -11,7 +11,7 @@ Welcome to Soriak Repository, a Weather Application, created as part of my GDSC 
 - GDSC Workshop PowerPoint Presentations.
 - Youtube Tutorials.
 
-## Special Note ( 23:22    29/03/24 )
+## Special Note ( 23:24    29/03/24 )
 
-- This Application is not fully functional yet as I failed to succesfully link all the parameters to OpenWeatherMap API, despite all my efforts and time given to this project.
+- This Application is not fully functional yet as I failed to succesfully link all the parameters to OpenWeatherMap API, despite my best efforts and time given to this project.
 - As of now, I have commented out all the JS files as submission deadline is near. I will continue working on this project in order to figure out the remainig bugs and hope to publish the final project here, once it is successfully completed.
