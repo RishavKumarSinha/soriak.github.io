@@ -1,5 +1,5 @@
 # Soriak
-Welcome to Soriak Repository, a Weather Application, created as part of my GDSC event 'Web Blitz 4.0' Project.
+Welcome to Soriak Repository, a Weather Application, created as part of my GDG on Campus event 'Web Blitz 4.0' Project.
 
 ## Features
 
@@ -8,7 +8,7 @@ Welcome to Soriak Repository, a Weather Application, created as part of my GDSC 
 
 ## Resources
 
-- GDSC Workshop PowerPoint Presentations.
+- GDG on Campus Workshop PowerPoint Presentations.
 - Youtube Tutorials.
 
 ## Visit the Website
